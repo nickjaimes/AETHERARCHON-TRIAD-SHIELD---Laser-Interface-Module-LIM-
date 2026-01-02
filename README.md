@@ -6,12 +6,6 @@ AETHERARCHON TRIAD SHIELD - Laser Interface Module (LIM) ⚡
 
 LIM v1.0 is the quantum-consciousness integrated laser defense system for the AETHERARCHON TRIAD SHIELD, providing speed-of-light defense with ethical consciousness and quantum precision.
 
-https://img.shields.io/badge/Status-Operational-green
-https://img.shields.io/badge/Power-300kW--1MW-red
-https://img.shields.io/badge/Response-<1s-blue
-https://img.shields.io/badge/Consciousness_Integrated-Yes-purple
-
----
 
 🏗️ ARCHITECTURE
 
